@@ -1,0 +1,31 @@
+{
+  "name": "svelte-vite-template",
+  "version": "1.0.0",
+  "description": "a svelte vite template",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koory1st/svelte-vite-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koory1st/svelte-vite-template/issues"
+  },
+  "homepage": "https://github.com/koory1st/svelte-vite-template#readme",
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.40",
+    "@tsconfig/svelte": "^3.0.0",
+    "sass": "^1.49.9",
+    "svelte": "^3.46.4",
+    "svelte-preprocess": "^4.10.4",
+    "typescript": "^4.6.3",
+    "vite": "^2.8.6"
+  }
+}
